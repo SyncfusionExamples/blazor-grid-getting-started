@@ -68,7 +68,6 @@ Through [paging](https://www.syncfusion.com/blazor-components/blazor-datagrid/pa
 
 ## Not sure how to create your first Blazor DataGrid? Our documentation can help
 
-{:.list-unstyled}
 * [Start with Blazor Server-side DataGrid](https://blazor.syncfusion.com/documentation/datagrid/getting-started/)
 * [Start with Blazor WebAssembly DataGrid](https://blazor.syncfusion.com/documentation/datagrid/how-to/client-side-using-visual-studio/)
 
