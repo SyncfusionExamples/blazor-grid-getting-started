@@ -1,4 +1,17 @@
+# Blazor DataGrid - Getting Started
+
 The [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_medium=listing&utm_source=github-examples&utm_campaign=blazor-datagrid-github-examples) is a feature-rich component for displaying data in a tabular format. Its wide range of functionalities includes data binding, editing, Excel-like filtering, Excel, CSV, and PDF formats, aggregating rows, selection, and more.
+
+## Prerequisites
+
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and Benefits
 
