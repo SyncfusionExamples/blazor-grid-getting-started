@@ -57,7 +57,7 @@ Through [paging](https://www.syncfusion.com/blazor-components/blazor-datagrid/pa
 
 [View Demos](https://github.com/SyncfusionExamples/blazor-grid-getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
 
-[Community Forums](https://www.syncfusion.com/forums/blazor-components/grid?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
+[Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
 
 [Documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
 
