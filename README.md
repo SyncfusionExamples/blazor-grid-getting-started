@@ -55,11 +55,11 @@ Through [paging](https://www.syncfusion.com/blazor-components/blazor-datagrid/pa
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
 
+[Documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
+
 [View Demos](https://github.com/SyncfusionExamples/blazor-grid-getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
-
-[Documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
 
 [Suggest a Feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples)
 
