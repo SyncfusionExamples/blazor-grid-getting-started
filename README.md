@@ -1,6 +1,6 @@
 # Blazor DataGrid - Getting Started
 
-High-performance [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) for modern applications. Display, edit, and manage tabular data from IEnumerable collections, OData services, or remote sources with built-in paging, sorting, filtering, grouping, and virtualization.
+[High-performance](https://www.syncfusion.com/blazor-components/blazor-datagrid/performance?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples) [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) for modern applications. Display, edit, and manage tabular data from IEnumerable collections, OData services, or remote sources with built-in paging, sorting, filtering, grouping, and virtualization.
 
 ## Prerequisites
 
