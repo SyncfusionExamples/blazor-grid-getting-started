@@ -1,6 +1,6 @@
 # Blazor DataGrid - Getting Started
 
-The [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples) is a feature-rich component for displaying data in a tabular format. Its wide range of functionalities includes data binding, editing, Excel-like filtering, Excel, CSV, and PDF formats, aggregating rows, selection, and more.
+High-performance [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) for modern applications. Display, edit, and manage tabular data from IEnumerable collections, OData services, or remote sources with built-in paging, sorting, filtering, grouping, and virtualization.
 
 ## Prerequisites
 
