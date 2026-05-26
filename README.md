@@ -1,15 +1,19 @@
 # Blazor DataGrid - Getting Started
 
-The [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-datagrid-github-samples) is a feature-rich component for displaying data in a tabular format. Its wide range of functionalities includes data binding, editing, Excel-like filtering, Excel, CSV, and PDF formats, aggregating rows, selection, and more.
+High-performance [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) for modern applications. Display, edit, and manage tabular data from IEnumerable collections, OData services, or remote sources with built-in paging, sorting, filtering, grouping, and virtualization.
 
 ## Prerequisites
 
-* Visual Studio 2022
+Blazor applications can be developed using the following IDEs. Development is also supported using the [.NET CLI](https://learn.microsoft.com/en-us/dotnet/core/tools/) without an IDE.
+
+* [Visual Studio 2026](https://visualstudio.microsoft.com/downloads/#visual-studio-professional-2026)
+* [Visual Studio 2022](https://visualstudio.microsoft.com/vs/older-downloads/#visual-studio-2022-and-other-products)
+* [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## How to run the project
 
 * Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
+* Open the solution file using the Visual Studio 2026 or 2022.
 * Restore the NuGet packages by rebuilding the solution.
 * Run the project.
 
